@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/bin-int/Debug-windows-x86_64/ChoiceEngine/ChoiceEngine.tlog
+/ChoiceEngine/ChoiceEngine.vcxproj
+/ChoiceEngine/ChoiceEngine.vcxproj.filters
+/Sandbox/Sandbox.vcxproj.filters
+/Sandbox/Sandbox.vcxproj
